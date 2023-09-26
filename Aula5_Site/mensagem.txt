@@ -1,0 +1,15 @@
+Nome:gabriel
+Email:gabriel@gmail.com
+Assunto:Sugestões
+Mensagem:Adicionar novas funcionalidades
+
+Nome:matheus
+Email:matheus@gmail.com
+Assunto:Reclamações
+Mensagem:O site não funciona!
+
+Nome:igor
+Email:igor@gmail.com
+Assunto:Dúvidas
+Mensagem:Como entro em contato ?
+
